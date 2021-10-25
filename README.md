@@ -9,4 +9,4 @@
 
 ## 解决方案
 
-- [数据库持续集成](): 解决开发测试环境协作过程中数据库同步问题
+- [数据库持续集成](https://github.com/Singa7464/BookStorage/blob/main/solution/database_continuous_integration.md): 解决开发测试环境协作过程中数据库同步问题
